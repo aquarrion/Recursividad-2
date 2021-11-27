@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         //FIBONACCI
-        Scanner teclado = new Scanner(System.in);
+        /*Scanner teclado = new Scanner(System.in);
         System.out.print("Introduce el número de elementos a mostrar de la series: ");
         int limite = teclado.nextInt();
         teclado.close();
@@ -12,7 +12,11 @@ public class Main {
             System.out.print(Ejercicio.funcionFibonacci(i) + ", ");
         }
 
-        System.out.println(" ");
+        System.out.println(" ");*/
+
+        //indicevector
+        /*int[] vector={10,8,2,6,4,2,1,0};
+        System.out.println(Ejercicio.indiceVector(vector));*/
 
 
 
